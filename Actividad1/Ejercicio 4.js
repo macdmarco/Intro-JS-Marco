@@ -1,0 +1,5 @@
+var p = Number (5)
+var D = Number (8)
+var d = Number (6)
+var formula = D * (d/2)
+console.log(formula)
