@@ -1,6 +1,6 @@
-const numero = prompt("Ingresa número")
+var numero = prompt("Ingresa número")
 
-if numero(%2 === 0){
+if numero == (%2 === 0) {
     alert("El número es par")
-}else{alert("El número es impar")
+} else { alert("El número es impar")
 }
